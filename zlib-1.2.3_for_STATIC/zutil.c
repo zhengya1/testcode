@@ -4,7 +4,7 @@
  */
 
 /* @(#) $Id$ */
-
+//for pan
 #include "zutil.h"
 
 #ifndef NO_DUMMY_DECL
