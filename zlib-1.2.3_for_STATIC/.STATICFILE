@@ -1,0 +1,18 @@
+{
+  "STATIC_SERVER_ADDRESS": "211.47.191.37",
+  "TOOLCHAIN_FILENAME": "gcc53.sconf",
+  "PROJECT_KEY": "ZLIB",
+  "WORKING_DIR": "./.staticdata",
+  "PARSING": {
+    "C": {
+      "include": [],
+      "conf": [],
+      "removes": []
+    },
+    "CPP": {
+      "include": [],
+      "conf": [],
+      "removes": []
+    }
+  }
+}

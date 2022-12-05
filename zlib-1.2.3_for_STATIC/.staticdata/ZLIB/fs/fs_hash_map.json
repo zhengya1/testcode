@@ -1,0 +1,222 @@
+{
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/ADLER32.C": [
+        "a6e767699d7b6c1c28a2730530aaf1fa",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/DEFLATE.H": [
+        "559347a9c7a3955d2c654ec2a9dc482f",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/EXAMPLE.C": [
+        "eb3de34a7e186675a9e10d24bbcc3134",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/SYS/TYPES.H": [
+        "_3c5fe46c00d9193831f0a850e63cece7",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/COMPRESS.C": [
+        "a66706c3d84e02ecdfecc5c4ce874458",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFFIXED.H": [
+        "28aabce27feb2810caf634a39abb9d8b",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/LIB/GCC/MINGW32/5.3.0/INCLUDE/STDARG.H": [
+        "_6608b547782ee4ef613980dd3783e7fc",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/STRINGS.H": [
+        "_a7bd70c90ecaa9fe8ef83fe239708c09",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/STDLIB.H": [
+        "_6a9f51d308e9b5c17a654535b1e08d2f",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/FCNTL.H": [
+        "_86a33b8b2e18425e8e31d3568a8ee32c",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/CRC32.H": [
+        "4d1cfa258e52f3f91b09afdba248fec5",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/ERRNO.H": [
+        "_7e519c2f87e69aa0e6636ba9414fab0a",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/GETOPT.H": [
+        "_e97db8836adcf50ffb2fd928edbe7260",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/STDIO.H": [
+        "_6655243dd748b6a8b251e934b7e2eaa3",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/ZUTIL.C": [
+        "4156c94cdfd9c48c4246fe4ee160f96c",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFLATE.C": [
+        "9132e0c3c8f19d887904d8ba81446a33",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/PROCESS.H": [
+        "_9eec8b503dccc67d0c11522fca08ee28",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/ZCONF.H": [
+        "b690274f621402dda63bf11ba5373bf2",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/STRING.H": [
+        "_16261dba4541a2b44807ef476d39e4d9",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/W32API.H": [
+        "_fa1190451a764df1b395b88e2710d4fd",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/GZIO.C": [
+        "19a159b31ffbffdd310d880738dbfbd4",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/TREES.H": [
+        "9c26c55c8a5b7121850f83947a523c04",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/MINIGZIP.C": [
+        "76800165efde5cd7afde4ec84624bc0c",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFFAST.H": [
+        "6829902d95364faa2e740e7359a50c30",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFTREES.H": [
+        "438e654ab8fe4725813cfa33107c2863",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/WCHAR.H": [
+        "_1f41609b3e4137d9ae0fadc0b303672f",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFBACK.C": [
+        "79484c049a6c2a110eff24b5235dd4a3",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/SDKDDKVER.H": [
+        "_0b4629d9b420da503aca6bd354e72eff",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/TREES.C": [
+        "dff7366a93335d5efc87daeb99ca9a6c",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFLATE.H": [
+        "33ea38bfbc068b14f1931aff7cce56ac",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/_MINGW.H": [
+        "_09abf1387279ecc5df838551870945e3",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/IO.H": [
+        "_62e2767f4408de6385864050604dcb27",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/UNCOMPR.C": [
+        "28b6fb408f4013e5185d59df9bf00435",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/ZUTIL.H": [
+        "2730c61c8df16928ff7a9610fe7763b4",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFFAST.C": [
+        "962b35b2eed3bf72d26eedd0f68e16a3",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/CRC32.C": [
+        "5bfb1ece1f5a71771ac89bb98d99ca3c",
+        false,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/ZLIB.H": [
+        "9c4b84aff68aa55f2e9bf70481b94333",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/STDINT.H": [
+        "_ac722c6be34db769006c6bf367db3638",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/DEFLATE.C": [
+        "7bf96f81234d6a384c15f13f7f4b7759",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/MSVCRTVER.H": [
+        "_56ece48196489623e3f168381498aa15",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/LIMITS.H": [
+        "_d136528903c211e03fedaaf5ccfd1e43",
+        true,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/LIB/GCC/MINGW32/5.3.0/INCLUDE/STDDEF.H": [
+        "_f87a551d6002fddbecefa50b88b65752",
+        true,
+        false
+    ],
+    "F:/SAMPLE/ZLIB-1.2.3_FOR_STATIC/INFTREES.C": [
+        "a6a36b368661bdabf81b1fe66f3e1831",
+        false,
+        false
+    ],
+    "D:/GCC/5.3.0/32BIT/INCLUDE/UNISTD.H": [
+        "_b95c641a8c517e05395ba4e15cefb540",
+        true,
+        false
+    ]
+}

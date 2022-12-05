@@ -1,0 +1,432 @@
+(143548)ME: D:\gcc\5.3.0\32bit\bin\mingw32-make.exe
+(143548) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143548) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143548) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143548) + Ignored EXENAME: mingw32-make
+(140204)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(140204) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(140204) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(140204) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(140204)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(140204) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(140204) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(140204) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143112)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143112) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143112) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143112) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143112) + Ignored EXENAME: as
+(143112)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143112) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143112) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143112) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143628)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143628) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143628) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143628) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143628)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143628) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143628) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143628) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142580)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(142580) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142580) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142580) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142580)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(142580) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142580) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142580) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(131104)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(131104) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(131104) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(131104) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(131104) + Ignored EXENAME: as
+(131104)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(131104) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(131104) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(131104) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(128392)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(128392) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(128392) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(128392) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(128392)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(128392) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(128392) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(128392) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143952)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143952) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143952) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143952) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143952)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143952) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143952) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143952) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143980)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143980) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143980) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143980) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143980) + Ignored EXENAME: as
+(143980)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143980) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143980) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143980) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(114948)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(114948) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(114948) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(114948) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(114948)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(114948) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(114948) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(114948) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144000)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144000) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144000) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144000) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144000)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144000) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144000) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144000) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(141664)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(141664) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(141664) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(141664) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(141664) + Ignored EXENAME: as
+(141664)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(141664) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(141664) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(141664) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144036)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144036) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144036) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144036) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144036)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144036) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144036) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144036) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144232)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144232) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144232) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144232) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144232)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144232) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144232) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144232) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144296)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(144296) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144296) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144296) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144296) + Ignored EXENAME: as
+(144296)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(144296) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144296) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144296) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144160)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144160) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144160) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144160) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144160)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144160) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144160) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144160) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144336)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144336) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144336) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144336) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144336)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144336) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144336) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144336) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144348)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(144348) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144348) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144348) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144348) + Ignored EXENAME: as
+(144348)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(144348) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144348) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144348) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144312)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144312) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144312) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144312) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144312)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144312) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144312) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144312) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(139444)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(139444) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(139444) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(139444) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(139444)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(139444) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(139444) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(139444) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143396)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143396) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143396) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143396) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143396) + Ignored EXENAME: as
+(143396)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143396) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143396) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143396) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144364)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144364) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144364) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144364) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144364)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144364) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144364) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144364) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(141468)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(141468) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(141468) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(141468) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(141468)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(141468) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(141468) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(141468) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143488)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143488) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143488) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143488) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143488) + Ignored EXENAME: as
+(143488)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(143488) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143488) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143488) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143448)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143448) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143448) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143448) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143448)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143448) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143448) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143448) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143568)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143568) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143568) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143568) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143568)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143568) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143568) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143568) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(133836)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(133836) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(133836) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(133836) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(133836) + Ignored EXENAME: as
+(133836)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(133836) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(133836) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(133836) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143520)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143520) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143520) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143520) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143520)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143520) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143520) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143520) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143692)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143692) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143692) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143692) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143692)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143692) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143692) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143692) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142708)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(142708) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142708) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142708) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142708) + Ignored EXENAME: as
+(142708)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(142708) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142708) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142708) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143368)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143368) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143368) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143368) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143368)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143368) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143368) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143368) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143948)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143948) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143948) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143948) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143948)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(143948) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143948) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143948) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142508)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(142508) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142508) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142508) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142508) + Ignored EXENAME: as
+(142508)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(142508) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142508) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142508) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143940)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143940) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143940) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143940) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143940)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143940) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143940) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143940) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144152)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144152) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144152) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144152) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144152)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144152) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144152) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144152) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142592)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(142592) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142592) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142592) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(142592) + Ignored EXENAME: as
+(142592)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(142592) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(142592) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(142592) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143012)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143012) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143012) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143012) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143012)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143012) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143012) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143012) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144304)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144304) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144304) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144304) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144304)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(144304) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144304) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144304) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144372)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(144372) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144372) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144372) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144372) + Ignored EXENAME: as
+(144372)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(144372) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144372) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144372) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144132)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144132) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144132) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144132) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144132)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(144132) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144132) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144132) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(140456)ME: C:\Program Files\mingw-w64\x86_64-4.9.4-win32-seh-rt_v5-rev0\mingw64\bin\ar.exe
+(140456) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(140456) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(140456) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(140456) + Ignored EXENAME: ar
+(144360)ME: C:\Windows\SysWOW64\cmd.exe
+(144360) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144360) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144360) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144360) + Ignored EXENAME: cmd
+(143432)ME: D:\gcc\5.3.0\32bit\bin\ranlib.exe
+(143432) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143432) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143432) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143432) + Ignored EXENAME: ranlib
+(143432)ME: D:\gcc\5.3.0\32bit\bin\ranlib.exe
+(143432) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143432) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143432) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(144360)ME: C:\Windows\SysWOW64\cmd.exe
+(144360) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(144360) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(144360) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143408)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(143408) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143408) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143408) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143408) + Ignored EXENAME: collect2
+(143404)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(143404) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143404) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143404) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143404)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(143404) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143404) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143404) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143408)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(143408) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143408) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143408) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143500)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143500) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143500) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143500) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143500)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(143500) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143500) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143500) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(102876)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(102876) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(102876) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(102876) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(102876)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(102876) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(102876) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(102876) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(138336)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(138336) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(138336) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(138336) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(138336) + Ignored EXENAME: as
+(138336)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(138336) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(138336) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(138336) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(132904)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(132904) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(132904) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(132904) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(132904)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(132904) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(132904) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(132904) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(139728)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(139728) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(139728) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(139728) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(139728) + Ignored EXENAME: collect2
+(127464)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(127464) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(127464) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(127464) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(127464)ME: d:\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(127464) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(127464) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(127464) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(139728)ME: d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(139728) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(139728) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(139728) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(134076)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(134076) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(134076) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(134076) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(134076)ME: D:\gcc\5.3.0\32bit\bin\gcc.exe
+(134076) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(134076) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(134076) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx
+(143548)ME: D:\gcc\5.3.0\32bit\bin\mingw32-make.exe
+(143548) + HOME: C:\Program Files\Suresofttech\STATIC Analysis Processing Unit\bin\
+(143548) + WORKING: F:\Sample\zlib-1.2.3_for_STATIC\.staticdata
+(143548) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ link ld xxx

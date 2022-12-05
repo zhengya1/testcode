@@ -1,0 +1,25 @@
+exec-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC-+-d:\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe-+-d:/gcc/5.3.0/32bit/bin/../libexec/gcc/mingw32/5.3.0/cc1.exe -quiet -iprefix d:\gcc\5.3.0\32bit\bin\../lib/gcc/mingw32/5.3.0/ -D USE_MMAP inflate.c -quiet -dumpbase inflate.c -mtune=generic -march=i586 -auxbase-strip inflate.o -O3 -o C:\Users\myc\AppData\Local\Temp\ccy3J3fn.s 
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\inflate.c
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\zutil.h
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\zlib.h
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\zconf.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\sys\types.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\_mingw.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\msvcrtver.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\w32api.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\sdkddkver.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\lib\gcc\mingw32\5.3.0\include\stddef.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\unistd.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\io.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\stdint.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\process.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\getopt.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\string.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\strings.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\wchar.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\stdlib.h
+open-+-143692-+-143368-+-D:\gcc\5.3.0\32bit\include\errno.h
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\inftrees.h
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\inflate.h
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\inffast.h
+open-+-143692-+-143368-+-F:\Sample\zlib-1.2.3_for_STATIC\inffixed.h

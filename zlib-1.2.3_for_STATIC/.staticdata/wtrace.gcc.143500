@@ -1,0 +1,1 @@
+exec-+-143500-+-143548-+-F:\Sample\zlib-1.2.3_for_STATIC-+-D:\gcc\5.3.0\32bit\bin\gcc.exe-+-gcc -O3 -DUSE_MMAP -o example.exe example.o -L. libz.a 
